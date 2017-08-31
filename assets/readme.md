@@ -1,2 +1,2 @@
 some text
-![](/game42.jpg)
+![](game42.jpg)
